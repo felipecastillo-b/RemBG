@@ -6,3 +6,6 @@ This is a small exercise that allows you to delete the background of images with
 3) python main.py
 
 ###Make sure the image is a PNG.###
+
+Before ![Before](https://imgur.com/a/lQWrr34)
+After ![After](https://imgur.com/a/EdMJem3)
